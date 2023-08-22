@@ -8,16 +8,16 @@ fun main() {
     print("Please enter number of tickets: ")
     var ticket = scanner.nextInt()
     print("How many round-trip tickets: ")
-    var RTticket = scanner.nextInt()
+    var rtTicket = scanner.nextInt()
 
-    val Ticket = TesterKotlin(ticket, RTticket)
+    val Ticket = TesterKotlin(ticket, rtTicket)
     Ticket.print()
 }
 
-class TesterKotlin(var ticket:Int, var RTticket:Int){
+class TesterKotlin(var ticket:Int, var rtTicket:Int){
     fun print(){
         println("Total tickets: " + ticket)
-        println("Round-trip: " + RTticket)
-        println("Total: " + ((ticket-RTticket)*1000+(RTticket*2000*0.9)).toInt())
+        println("Round-trip: " + rtTicket)
+        println("Total: " + ((ticket-rtTicket)*1000+(rtTicket*2000*0.9)).toInt())
     }
 }

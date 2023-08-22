@@ -9,9 +9,9 @@ public class Tester {
         System.out.print("Please enter number of tickets: ");
         int ticket = scanner.nextInt();
         System.out.print("How many round-trip tickets: ");
-        int RTticket = scanner.nextInt();
+        int rtTicket = scanner.nextInt();
 
-        Ticket ticket_ = new Ticket(ticket, RTticket);
+        Ticket ticket_ = new Ticket(ticket, rtTicket);
         ticket_.print();
     }
 }
