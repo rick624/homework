@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b21ec935-e9d7-4a83-9928-95bc6f416c29" name="Changes" comment="Commit1">
+    <list default="true" id="b21ec935-e9d7-4a83-9928-95bc6f416c29" name="Changes" comment="Commit1-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/train/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/train/Tester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/train/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/train/Ticket.java" afterDir="false" />
@@ -54,14 +54,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Rick/Java&Kotlin/IdeaProjects/homework",
-    "onboarding.tips.debug.path": "D:/Rick/Java&Kotlin/IdeaProjects/homework/src/main/java/com/train/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Rick/Java&amp;Kotlin/IdeaProjects/homework&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Rick/Java&amp;Kotlin/IdeaProjects/homework/src/main/java/com/train/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Kotlin.TesterKotlinKt">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.train.Main" />
@@ -129,7 +129,31 @@
       <option name="project" value="LOCAL" />
       <updated>1692007100344</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit1-1">
+      <option name="closed" value="true" />
+      <created>1692671077200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692671077200</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit1-1">
+      <option name="closed" value="true" />
+      <created>1692671224865</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692671224865</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit1-1">
+      <option name="closed" value="true" />
+      <created>1692671265143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692671265143</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +169,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit1" />
+    <MESSAGE value="Commit1-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit1-1" />
   </component>
 </project>
